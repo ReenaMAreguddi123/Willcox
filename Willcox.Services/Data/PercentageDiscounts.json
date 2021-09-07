@@ -1,0 +1,22 @@
+[
+  {
+    "DiscountId": "10OFF",
+    "Description": "Headstone 10% off",
+    "Products": [ "1", "2" ],
+    "PercentageOff": 10,
+    "ValidFrom": "2021-09-01",
+    "ValidTill": "2021-12-01",
+    "Priority": 1,
+    "Exclusive": true
+  },
+  {
+    "DiscountId": "5OFF",
+    "Description": "Dowel 5% off:",
+    "Products": [ "4" ],
+    "PercentageOff": 5,
+    "ValidFrom": "2021-09-01",
+    "ValidTill": "2021-12-01",
+    "Priority": 2,
+    "Exclusive": true
+  }
+]
